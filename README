@@ -1,0 +1,57 @@
+# Personal Finance Dashboard
+
+**A Comprehensive Analysis of Monthly Spending and Budgeting Trends**
+
+##  Tools Used
+- Microsoft Excel (Data Cleaning, Charting, Formulas, Forecasting)
+
+##  Project Type
+- Solo Project | Beginner Level | Real-World Application
+
+---
+
+##  Project Overview
+
+This project is my first solo data analytics initiative, built entirely from scratch using personal financial data. The goal was to analyze and visualize monthly expenses across various accounts — including bank and credit card transactions — using Excel.
+
+I applied core data analytics skills such as:
+- Data cleaning and transformation
+- Chart and dashboard design
+- Trend analysis and forecasting
+
+The final product is an **interactive Excel dashboard** that provides actionable insights, identifies overspending, and helps forecast future financial trends. This project demonstrates my ability to turn raw data into a practical tool for real-world decision-making.
+
+---
+
+##  Key Dashboard Components & Insights
+
+### 1. **Spending by Category (Pie Chart)**
+- Visualizes how expenses are distributed across categories (e.g., groceries, transportation).
+- Identifies high-impact spending areas.
+- Supports informed budgeting decisions.
+
+### 2. **Monthly Spending Trend (Line Chart)**
+- Displays total expenses per month over time.
+- Highlights seasonal spending patterns (e.g., holidays, school start).
+- Helps track financial behavior over the year.
+
+### 3. **Expenses vs Budget + Overspending Indicator (Dual Line Chart)**
+- Compares actual expenses to monthly budgets.
+- Flags overspending in specific months.
+- Encourages financial discipline through visual variance tracking.
+
+### 4. **Moving Average Forecast (Smoothed Line Chart)**
+- Reveals long-term trends by smoothing short-term fluctuations.
+- Clarifies the general direction of personal spending.
+- Useful for steady, data-driven budgeting.
+
+### 5. **Linear Regression Forecast (Trend Projection)**
+- Projects future spending using a linear regression trendline.
+- Adds a predictive element to the dashboard.
+- Supports proactive and strategic financial planning.
+
+### 6. **Credit Card Spending vs Repayment (Comparison Chart)**
+- Compares credit card usage with repayments over time.
+- Tracks credit management behavior.
+- Offers insights into debt reduction and responsible financial habits.
+
